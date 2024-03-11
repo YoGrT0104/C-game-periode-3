@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\youpg\\source\\repos\\C# Game periode 3\\C# Game periode 3\\C# Game periode 3.csproj": {}
+    "C:\\Users\\youpg\\OneDrive\\Documenten\\School projecten\\Periode 3\\C# project\\C# game periode 3\\C# Game periode 3\\C# Game periode 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\youpg\\source\\repos\\C# Game periode 3\\C# Game periode 3\\C# Game periode 3.csproj": {
+    "C:\\Users\\youpg\\OneDrive\\Documenten\\School projecten\\Periode 3\\C# project\\C# game periode 3\\C# Game periode 3\\C# Game periode 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\youpg\\source\\repos\\C# Game periode 3\\C# Game periode 3\\C# Game periode 3.csproj",
+        "projectUniqueName": "C:\\Users\\youpg\\OneDrive\\Documenten\\School projecten\\Periode 3\\C# project\\C# game periode 3\\C# Game periode 3\\C# Game periode 3.csproj",
         "projectName": "C# Game periode 3",
-        "projectPath": "C:\\Users\\youpg\\source\\repos\\C# Game periode 3\\C# Game periode 3\\C# Game periode 3.csproj",
+        "projectPath": "C:\\Users\\youpg\\OneDrive\\Documenten\\School projecten\\Periode 3\\C# project\\C# game periode 3\\C# Game periode 3\\C# Game periode 3.csproj",
         "packagesPath": "C:\\Users\\youpg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\youpg\\source\\repos\\C# Game periode 3\\C# Game periode 3\\obj\\",
+        "outputPath": "C:\\Users\\youpg\\OneDrive\\Documenten\\School projecten\\Periode 3\\C# project\\C# game periode 3\\C# Game periode 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\youpg\\AppData\\Roaming\\NuGet\\NuGet.Config",

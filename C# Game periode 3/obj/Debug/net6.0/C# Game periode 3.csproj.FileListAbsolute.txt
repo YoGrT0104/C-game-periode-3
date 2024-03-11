@@ -1,0 +1,14 @@
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\bin\Debug\net6.0\C# Game periode 3.exe
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\bin\Debug\net6.0\C# Game periode 3.deps.json
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\bin\Debug\net6.0\C# Game periode 3.runtimeconfig.json
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\bin\Debug\net6.0\C# Game periode 3.dll
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\bin\Debug\net6.0\C# Game periode 3.pdb
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\obj\Debug\net6.0\C# Game periode 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\obj\Debug\net6.0\C# Game periode 3.AssemblyInfoInputs.cache
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\obj\Debug\net6.0\C# Game periode 3.AssemblyInfo.cs
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\obj\Debug\net6.0\C# Game periode 3.csproj.CoreCompileInputs.cache
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\obj\Debug\net6.0\C# Game periode 3.dll
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\obj\Debug\net6.0\refint\C# Game periode 3.dll
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\obj\Debug\net6.0\C# Game periode 3.pdb
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\obj\Debug\net6.0\C# Game periode 3.genruntimeconfig.cache
+C:\Users\youpg\OneDrive\Documenten\School projecten\Periode 3\C# project\C# game periode 3\C# Game periode 3\obj\Debug\net6.0\ref\C# Game periode 3.dll
